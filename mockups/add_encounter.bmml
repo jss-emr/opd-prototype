@@ -707,12 +707,13 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="104" controlTypeID="com.balsamiq.mockups::ButtonBar" x="208" y="269" w="-1" h="-1" measuredW="86" measuredH="29" zOrder="77" locked="false" isInGroup="-1">
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::ButtonBar" x="208" y="269" w="-1" h="-1" measuredW="81" measuredH="28" zOrder="77" locked="false" isInGroup="-1">
       <controlProperties>
+        <size>12</size>
         <text>%3C%3C</text>
       </controlProperties>
     </control>
-    <control controlID="107" controlTypeID="com.balsamiq.mockups::Link" x="747" y="272" w="-1" h="-1" measuredW="219" measuredH="22" zOrder="78" locked="false" isInGroup="-1">
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Link" x="749" y="272" w="-1" h="-1" measuredW="219" measuredH="22" zOrder="78" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>Asha%20Devi%20%28178256%29%20%2C%2048%20Y%2C%2043%20Kg</text>
@@ -901,9 +902,9 @@
         <text>Chief%20Complaint%20and%20Symptoms</text>
       </controlProperties>
     </control>
-    <control controlID="139" controlTypeID="com.balsamiq.mockups::ButtonBar" x="305" y="270" w="399" h="29" measuredW="385" measuredH="29" zOrder="94" locked="false" isInGroup="-1">
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::ButtonBar" x="293" y="270" w="399" h="29" measuredW="366" measuredH="29" zOrder="94" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>History%20n%20Symptoms%2C%20Notes%2C%20Diagnosis%2C%20Treatment</text>
+        <text>History/Symptoms%2C%20Notes%2C%20Diagnosis%2C%20Treatment</text>
       </controlProperties>
     </control>
     <control controlID="141" controlTypeID="com.balsamiq.mockups::FieldSet" x="210" y="738" w="755" h="152" measuredW="200" measuredH="170" zOrder="96" locked="false" isInGroup="-1">
@@ -960,7 +961,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="153" controlTypeID="com.balsamiq.mockups::Icon" x="714" y="272" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="99" locked="false" isInGroup="-1">
+    <control controlID="153" controlTypeID="com.balsamiq.mockups::Icon" x="694" y="270" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="99" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CameraIcon%7Csmall</icon>
       </controlProperties>
@@ -1170,6 +1171,11 @@
     <control controlID="178" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1092" y="538" w="-1" h="-1" measuredW="423" measuredH="29" zOrder="105" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Refer%20Internal%2C%20Refer%20External%2C%20Continue%20Same%20Treatment</text>
+      </controlProperties>
+    </control>
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::Icon" x="722" y="270" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="106" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ThumbnailsIcon%7Csmall</icon>
       </controlProperties>
     </control>
   </controls>

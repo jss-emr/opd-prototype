@@ -710,18 +710,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="104" controlTypeID="com.balsamiq.mockups::ButtonBar" x="208" y="269" w="-1" h="-1" measuredW="86" measuredH="29" zOrder="79" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%3C%3C</text>
-      </controlProperties>
-    </control>
-    <control controlID="107" controlTypeID="com.balsamiq.mockups::Link" x="747" y="272" w="-1" h="-1" measuredW="219" measuredH="22" zOrder="80" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>14</size>
-        <text>Asha%20Devi%20%28178256%29%20%2C%2048%20Y%2C%2043%20Kg</text>
-      </controlProperties>
-    </control>
-    <control controlID="122" controlTypeID="__group__" x="1092" y="281" w="343" h="181" measuredW="343" measuredH="181" zOrder="81" locked="false" isInGroup="-1">
+    <control controlID="122" controlTypeID="__group__" x="1092" y="281" w="343" h="181" measuredW="343" measuredH="181" zOrder="79" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="216" y="153" w="104" h="28" measuredW="104" measuredH="28" zOrder="0" locked="false" isInGroup="122">
           <groupChildrenDescriptors>
@@ -876,12 +865,6 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="139" controlTypeID="com.balsamiq.mockups::ButtonBar" x="305" y="270" w="399" h="29" measuredW="385" measuredH="29" zOrder="82" locked="false" isInGroup="-1">
-      <controlProperties>
-        <selectedIndex>2</selectedIndex>
-        <text>History%20n%20Symptoms%2C%20Notes%2C%20Diagnosis%2C%20Treatment</text>
-      </controlProperties>
-    </control>
     <control controlID="142" controlTypeID="com.balsamiq.mockups::FieldSet" x="212" y="526" w="755" h="172" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.25</backgroundAlpha>
@@ -889,12 +872,12 @@
         <text>Diagnosis</text>
       </controlProperties>
     </control>
-    <control controlID="143" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1092" y="488" w="-1" h="-1" measuredW="373" measuredH="29" zOrder="83" locked="false" isInGroup="-1">
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1092" y="488" w="-1" h="-1" measuredW="373" measuredH="29" zOrder="80" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Add%20to%20Dictionary%20%28Quick%29%2C%20Detailed%2C%20Clip%20to%20Notes</text>
       </controlProperties>
     </control>
-    <control controlID="152" controlTypeID="__group__" x="658" y="308" w="308" h="113" measuredW="308" measuredH="113" zOrder="84" locked="false" isInGroup="-1">
+    <control controlID="152" controlTypeID="__group__" x="658" y="308" w="308" h="113" measuredW="308" measuredH="113" zOrder="81" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="308" h="113" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="152">
           <controlProperties>
@@ -932,11 +915,6 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
-    </control>
-    <control controlID="153" controlTypeID="com.balsamiq.mockups::Icon" x="714" y="272" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="85" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>CameraIcon%7Csmall</icon>
-      </controlProperties>
     </control>
     <control controlID="154" controlTypeID="__group__" x="213" y="97" w="755" h="213" measuredW="755" measuredH="213" zOrder="0" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
@@ -1082,24 +1060,24 @@
         <text>Treatment</text>
       </controlProperties>
     </control>
-    <control controlID="166" controlTypeID="com.balsamiq.mockups::FieldSet" x="213" y="312" w="755" h="168" measuredW="200" measuredH="170" zOrder="86" locked="false" isInGroup="-1">
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::FieldSet" x="213" y="312" w="755" h="168" measuredW="200" measuredH="170" zOrder="82" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
         <color>16777215</color>
         <text>Notes</text>
       </controlProperties>
     </control>
-    <control controlID="167" controlTypeID="com.balsamiq.mockups::Label" x="235" y="343" w="-1" h="-1" measuredW="278" measuredH="21" zOrder="87" locked="false" isInGroup="-1">
+    <control controlID="167" controlTypeID="com.balsamiq.mockups::Label" x="235" y="343" w="-1" h="-1" measuredW="278" measuredH="21" zOrder="83" locked="false" isInGroup="-1">
       <controlProperties>
         <text>*%20Suffering%20might%20be%20related%20to%20genetic%20problem</text>
       </controlProperties>
     </control>
-    <control controlID="168" controlTypeID="com.balsamiq.mockups::Label" x="233" y="364" w="-1" h="-1" measuredW="278" measuredH="21" zOrder="88" locked="false" isInGroup="-1">
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Label" x="233" y="364" w="-1" h="-1" measuredW="278" measuredH="21" zOrder="84" locked="false" isInGroup="-1">
       <controlProperties>
         <text>*%20This%20note%20has%20been%20taken%20down%20for%20the%20patient</text>
       </controlProperties>
     </control>
-    <control controlID="170" controlTypeID="com.balsamiq.mockups::List" x="212" y="349" w="130" h="172" measuredW="100" measuredH="126" zOrder="89" locked="false" isInGroup="-1">
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::List" x="212" y="349" w="130" h="172" measuredW="100" measuredH="126" zOrder="85" locked="false" isInGroup="-1">
       <controlProperties>
         <rowHeight>37</rowHeight>
         <selectedIndex>3</selectedIndex>
@@ -1107,7 +1085,7 @@
         <text>T-Virus%0ATyphoid%0ATuberculosis</text>
       </controlProperties>
     </control>
-    <control controlID="171" controlTypeID="com.balsamiq.mockups::List" x="352" y="349" w="210" h="169" measuredW="100" measuredH="126" zOrder="90" locked="false" isInGroup="-1">
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::List" x="352" y="349" w="210" h="169" measuredW="100" measuredH="126" zOrder="86" locked="false" isInGroup="-1">
       <controlProperties>
         <rowHeight>37</rowHeight>
         <selectedIndex>1</selectedIndex>
@@ -1115,7 +1093,7 @@
         <text>PULMONARY%0AEXTRAPULMONARY%0ADISSEMINATED</text>
       </controlProperties>
     </control>
-    <control controlID="172" controlTypeID="com.balsamiq.mockups::List" x="575" y="350" w="153" h="117" measuredW="100" measuredH="126" zOrder="91" locked="false" isInGroup="-1">
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::List" x="575" y="350" w="153" h="117" measuredW="100" measuredH="126" zOrder="87" locked="false" isInGroup="-1">
       <controlProperties>
         <rowHeight>37</rowHeight>
         <selectedIndex>3</selectedIndex>
@@ -1123,7 +1101,7 @@
         <text>SPUTUM%20+VE%0ASPUTUM%20-VE</text>
       </controlProperties>
     </control>
-    <control controlID="173" controlTypeID="com.balsamiq.mockups::TextInput" x="212" y="312" w="383" h="-1" measuredW="28" measuredH="34" zOrder="92" locked="false" isInGroup="-1">
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::TextInput" x="212" y="312" w="383" h="-1" measuredW="28" measuredH="34" zOrder="88" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.25</backgroundAlpha>
         <borderColor>0</borderColor>
@@ -1134,7 +1112,7 @@
         <text>T</text>
       </controlProperties>
     </control>
-    <control controlID="174" controlTypeID="com.balsamiq.mockups::RoundButton" x="562" y="319" w="20" h="20" measuredW="32" measuredH="32" zOrder="93" locked="false" isInGroup="-1">
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::RoundButton" x="562" y="319" w="20" h="20" measuredW="32" measuredH="32" zOrder="89" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>10066329</borderColor>
         <color>15658734</color>
@@ -1143,25 +1121,25 @@
         <text>x</text>
       </controlProperties>
     </control>
-    <control controlID="176" controlTypeID="com.balsamiq.mockups::TextInput" x="228" y="549" w="-1" h="-1" measuredW="90" measuredH="28" zOrder="94" locked="false" isInGroup="-1">
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::TextInput" x="228" y="549" w="-1" h="-1" measuredW="90" measuredH="28" zOrder="90" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>Tuberculosis</text>
       </controlProperties>
     </control>
-    <control controlID="177" controlTypeID="com.balsamiq.mockups::TextInput" x="325" y="549" w="-1" h="-1" measuredW="106" measuredH="28" zOrder="95" locked="false" isInGroup="-1">
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::TextInput" x="325" y="549" w="-1" h="-1" measuredW="106" measuredH="28" zOrder="91" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>Extrapulmonary</text>
       </controlProperties>
     </control>
-    <control controlID="178" controlTypeID="com.balsamiq.mockups::TextInput" x="438" y="549" w="-1" h="-1" measuredW="85" measuredH="28" zOrder="96" locked="false" isInGroup="-1">
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::TextInput" x="438" y="549" w="-1" h="-1" measuredW="85" measuredH="28" zOrder="92" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>Sputum%20-ve</text>
       </controlProperties>
     </control>
-    <control controlID="180" controlTypeID="com.balsamiq.mockups::List" x="747" y="350" w="153" h="117" measuredW="100" measuredH="126" zOrder="97" locked="false" isInGroup="-1">
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::List" x="747" y="350" w="153" h="117" measuredW="100" measuredH="126" zOrder="93" locked="false" isInGroup="-1">
       <controlProperties>
         <rowHeight>37</rowHeight>
         <selectedIndex>1</selectedIndex>
@@ -1169,7 +1147,7 @@
         <text>Confirmed%0ADifferential%0AInterim</text>
       </controlProperties>
     </control>
-    <control controlID="188" controlTypeID="com.balsamiq.mockups::RoundButton" x="529" y="552" w="20" h="20" measuredW="32" measuredH="32" zOrder="98" locked="false" isInGroup="-1">
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::RoundButton" x="529" y="552" w="20" h="20" measuredW="32" measuredH="32" zOrder="94" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>10066329</borderColor>
         <color>15658734</color>
@@ -1179,7 +1157,7 @@
         <text>x</text>
       </controlProperties>
     </control>
-    <control controlID="189" controlTypeID="com.balsamiq.mockups::RoundButton" x="551" y="552" w="20" h="20" measuredW="32" measuredH="32" zOrder="99" locked="false" isInGroup="-1">
+    <control controlID="189" controlTypeID="com.balsamiq.mockups::RoundButton" x="551" y="552" w="20" h="20" measuredW="32" measuredH="32" zOrder="95" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>10066329</borderColor>
         <color>15658734</color>
@@ -1189,7 +1167,7 @@
         <text>x</text>
       </controlProperties>
     </control>
-    <control controlID="190" controlTypeID="com.balsamiq.mockups::RoundButton" x="573" y="552" w="20" h="20" measuredW="32" measuredH="32" zOrder="100" locked="false" isInGroup="-1">
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::RoundButton" x="573" y="552" w="20" h="20" measuredW="32" measuredH="32" zOrder="96" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>10066329</borderColor>
         <color>15658734</color>
@@ -1199,9 +1177,36 @@
         <text>x</text>
       </controlProperties>
     </control>
-    <control controlID="191" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1092" y="538" w="-1" h="-1" measuredW="423" measuredH="29" zOrder="101" locked="false" isInGroup="-1">
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1092" y="538" w="-1" h="-1" measuredW="423" measuredH="29" zOrder="97" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Refer%20Internal%2C%20Refer%20External%2C%20Continue%20Same%20Treatment</text>
+      </controlProperties>
+    </control>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::ButtonBar" x="208" y="269" w="-1" h="-1" measuredW="81" measuredH="28" zOrder="98" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>%3C%3C</text>
+      </controlProperties>
+    </control>
+    <control controlID="193" controlTypeID="com.balsamiq.mockups::Link" x="749" y="272" w="-1" h="-1" measuredW="219" measuredH="22" zOrder="99" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Asha%20Devi%20%28178256%29%20%2C%2048%20Y%2C%2043%20Kg</text>
+      </controlProperties>
+    </control>
+    <control controlID="194" controlTypeID="com.balsamiq.mockups::ButtonBar" x="293" y="270" w="399" h="29" measuredW="366" measuredH="29" zOrder="100" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>History/Symptoms%2C%20Notes%2C%20Diagnosis%2C%20Treatment</text>
+      </controlProperties>
+    </control>
+    <control controlID="195" controlTypeID="com.balsamiq.mockups::Icon" x="694" y="270" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="101" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CameraIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="196" controlTypeID="com.balsamiq.mockups::Icon" x="722" y="270" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="102" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ThumbnailsIcon%7Csmall</icon>
       </controlProperties>
     </control>
   </controls>
