@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1515" measuredH="1322" mockupW="1459" mockupH="1314">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1623" measuredH="1322" mockupW="1567" mockupH="1314">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="56" y="8" w="691" h="-1" measuredW="253" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
@@ -1106,9 +1106,9 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="231" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1092" y="538" w="-1" h="-1" measuredW="423" measuredH="29" zOrder="99" locked="false" isInGroup="-1">
+    <control controlID="231" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1092" y="538" w="-1" h="-1" measuredW="531" measuredH="29" zOrder="99" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Refer%20Internal%2C%20Refer%20External%2C%20Continue%20Same%20Treatment</text>
+        <text>Refer%20Internal%2C%20Refer%20External%2C%20Continue%20Same%20Treatment%2C%20IPD%20Transfer</text>
       </controlProperties>
     </control>
     <control controlID="232" controlTypeID="com.balsamiq.mockups::ButtonBar" x="208" y="269" w="-1" h="-1" measuredW="81" measuredH="28" zOrder="100" locked="false" isInGroup="-1">

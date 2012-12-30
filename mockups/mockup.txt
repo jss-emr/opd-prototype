@@ -1,0 +1,37 @@
+
+One of the key design ideas behind the mockups is a dual tablet plus paper system. It has the following reasons
+    1. Subjectivity in doctors treatment.
+    2. Usage of hand-drawn images on OPD card.
+    3. Information entered is structured/semi-structured/unstructured. Not all data is stuctured.
+
+Doctors enter all structured information 
+    1. History + Symptoms (stored as concepts)
+    2. Diagnosis and Treatment information (stored as concepts)
+    3. Lab/Radiology Orders (stored as concepts)
+
+Unstructured information may be added as notes.
+
+All paper lab results and paper ECG/XRay reports etc to be scanned at the end of day by staff and uploaded into system.
+
+The process of structuring the medical information present is a continuous and long one. Continuing with a paper + electronic
+system will ensure less resistance and easy adoption of the system.
+
+--
+
+patient_view_summary
+1. on clicking arrows - small graphs of metrics show up
+2. on clicking on encounters, treatment, lab etc they show up
+3. on clicking on star, original image shows up
+4. ability to click on any encounter, go to it, and edit it
+
+patient_add_encounter
+1. ability to show more vitals on clicking patient name
+2. ability to scroll/view older encounters (might do this through a flick of the finger like flipping a page)
+3. ability to quick add to dictionary/clip to notes in case not present
+4. ability to refer internal/refer external/continue same treatment
+5. ability to use camera and take a photograph, and view existing attachments
+
+patient_add_encounter_focus_treatment
+1. mg/ml, drops/tablets, application/inhale/consumption etc change based on selected medicine
+2.
+
