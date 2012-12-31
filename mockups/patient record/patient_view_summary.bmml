@@ -148,7 +148,7 @@
     </control>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="822" y="288" w="125" h="131" measuredW="180" measuredH="180" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./images/180_india.jpg</src>
+        <src>../images/180_india.jpg</src>
       </controlProperties>
     </control>
     <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="694" y="293" w="123" h="24" measuredW="86" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
@@ -663,7 +663,7 @@
         <text>Notes</text>
       </controlProperties>
     </control>
-    <control controlID="156" controlTypeID="com.balsamiq.mockups::Tooltip" x="1079" y="428" w="211" h="151" measuredW="45" measuredH="154" zOrder="103" locked="false" isInGroup="-1">
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::Tooltip" x="1079" y="428" w="211" h="151" measuredW="45" measuredH="0" zOrder="103" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
         <tooltipDirection>SW</tooltipDirection>
