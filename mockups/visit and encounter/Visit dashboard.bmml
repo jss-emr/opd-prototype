@@ -151,7 +151,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="89" controlTypeID="com.balsamiq.mockups::RoundButton" x="187" y="299" w="381" h="287" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::RoundButton" x="187" y="299" w="381" h="268" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>6710886</borderColor>
         <color>16777215</color>
@@ -178,7 +178,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="137" controlTypeID="com.balsamiq.mockups::RoundButton" x="187" y="595" w="380" h="137" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::RoundButton" x="187" y="582" w="380" h="150" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>6710886</borderColor>
         <color>16777215</color>
@@ -494,7 +494,7 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="317" controlTypeID="com.balsamiq.mockups::List" x="211" y="586" w="102" h="31" measuredW="100" measuredH="126" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="317" controlTypeID="com.balsamiq.mockups::List" x="211" y="572" w="102" h="31" measuredW="100" measuredH="126" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <alternateRowColor>16777215</alternateRowColor>
         <bold>true</bold>
@@ -668,53 +668,116 @@
         <text>Doctor%20can%20enter%20any%20notes%20here%20which%20cannot%20be%20entered%20in%20coded%20form.%20This%20text%20here%20can%20be%20entered%20via%20the%20tablet%20or%20if%20we%20can%20successfully%20use%20hand%20writing%20recognization%20system.</text>
       </controlProperties>
     </control>
-    <control controlID="330" controlTypeID="__group__" x="587" y="298" w="216" h="133" measuredW="216" measuredH="133" zOrder="36" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="38" y="0" w="132" h="24" measuredW="98" measuredH="28" zOrder="0" locked="false" isInGroup="330">
-          <controlProperties>
-            <align>center</align>
-            <bold>true</bold>
-            <color>545684</color>
-            <size>20</size>
-            <text>Asha%20Devi</text>
-            <underline>true</underline>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="115" y="30" w="91" h="24" measuredW="91" measuredH="28" zOrder="1" locked="false" isInGroup="330">
-          <controlProperties>
-            <color>0</color>
-            <size>20</size>
-            <text>48%20Years</text>
-          </controlProperties>
-        </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="30" w="109" h="24" measuredW="118" measuredH="28" zOrder="2" locked="false" isInGroup="330">
-          <controlProperties>
-            <color>0</color>
-            <size>20</size>
-            <text>GAN76B123</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="71" w="213" h="24" measuredW="155" measuredH="28" zOrder="3" locked="false" isInGroup="330">
-          <controlProperties>
-            <align>center</align>
-            <bold>true</bold>
-            <color>545684</color>
-            <size>20</size>
-            <text>Visit%3A%2020-Nov-12</text>
-            <underline>true</underline>
-          </controlProperties>
-        </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="3" y="109" w="213" h="24" measuredW="158" measuredH="28" zOrder="4" locked="false" isInGroup="330">
-          <controlProperties>
-            <align>center</align>
-            <bold>true</bold>
-            <color>545684</color>
-            <size>20</size>
-            <text>Visit%3A%2024-Dec-12</text>
-            <underline>true</underline>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
+    <control controlID="331" controlTypeID="com.balsamiq.mockups::Label" x="625" y="306" w="132" h="24" measuredW="98" measuredH="28" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>545684</color>
+        <size>20</size>
+        <text>Asha%20Devi</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="332" controlTypeID="com.balsamiq.mockups::Label" x="708" y="340" w="75" h="24" measuredW="72" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>16</size>
+        <text>48%20Years</text>
+      </controlProperties>
+    </control>
+    <control controlID="333" controlTypeID="com.balsamiq.mockups::Label" x="593" y="340" w="100" h="24" measuredW="97" measuredH="24" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>16</size>
+        <text>GAN76B123</text>
+      </controlProperties>
+    </control>
+    <control controlID="334" controlTypeID="com.balsamiq.mockups::Label" x="587" y="369" w="213" h="24" measuredW="155" measuredH="28" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>545684</color>
+        <size>20</size>
+        <text>Visit%3A%2020-Nov-12</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="335" controlTypeID="com.balsamiq.mockups::Label" x="590" y="403" w="213" h="24" measuredW="158" measuredH="28" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>545684</color>
+        <size>20</size>
+        <text>Visit%3A%2024-Dec-12</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="336" controlTypeID="com.balsamiq.mockups::Button" x="415" y="591" w="140" h="29" measuredW="137" measuredH="27" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <state>up</state>
+        <text>Choose%20disease</text>
+      </controlProperties>
+    </control>
+    <control controlID="343" controlTypeID="com.balsamiq.mockups::Canvas" x="200" y="611" w="113" h="28" measuredW="100" measuredH="70" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>6989903</color>
+      </controlProperties>
+    </control>
+    <control controlID="345" controlTypeID="com.balsamiq.mockups::Label" x="203" y="613" w="103" h="24" measuredW="100" measuredH="24" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>Hypertension</text>
+      </controlProperties>
+    </control>
+    <control controlID="346" controlTypeID="com.balsamiq.mockups::Canvas" x="197" y="679" w="113" h="28" measuredW="100" measuredH="70" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>6989903</color>
+      </controlProperties>
+    </control>
+    <control controlID="347" controlTypeID="com.balsamiq.mockups::Label" x="200" y="681" w="103" h="24" measuredW="97" measuredH="24" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>Minor%20stroke</text>
+      </controlProperties>
+    </control>
+    <control controlID="348" controlTypeID="com.balsamiq.mockups::Canvas" x="198" y="645" w="105" h="28" measuredW="100" measuredH="70" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="349" controlTypeID="com.balsamiq.mockups::Label" x="201" y="647" w="86" h="24" measuredW="60" measuredH="24" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>FooBar</text>
+      </controlProperties>
+    </control>
+    <control controlID="350" controlTypeID="com.balsamiq.mockups::Canvas" x="309" y="679" w="30" h="28" measuredW="100" measuredH="70" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+    <control controlID="351" controlTypeID="com.balsamiq.mockups::Label" x="309" y="681" w="27" h="24" measuredW="27" measuredH="24" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>RJ</text>
+      </controlProperties>
     </control>
   </controls>
 </mockup>
