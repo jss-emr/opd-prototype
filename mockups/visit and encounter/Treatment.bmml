@@ -803,7 +803,7 @@
         <color>10470904</color>
         <shape>roundRect</shape>
         <size>20</size>
-        <text>Fill%20treatment%20from%20disease%20template</text>
+        <text>Choose%20a%20disease%20template</text>
       </controlProperties>
     </control>
     <control controlID="197" controlTypeID="com.balsamiq.mockups::RoundButton" x="846" y="351" w="90" h="29" measuredW="32" measuredH="32" zOrder="90" locked="false" isInGroup="-1">
